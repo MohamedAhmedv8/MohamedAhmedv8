@@ -1,67 +1,18 @@
-<h1 align="center">
-  <b>Abhigyan Trips</b>
-</h1>
+![vsneon](https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif)\
+[![xda](https://github.com/acervenky/acervenky/blob/master/assets/xda1.gif)](https://forum.xda-developers.com/member.php?u=4561985)[![yt](https://github.com/acervenky/acervenky/blob/master/assets/yt.gif)](https://www.youtube.com/acervenky)[![in](https://github.com/acervenky/acervenky/blob/master/assets/in.gif)](https://www.linkedin.com/in/venkateshsurve/)[![blog](https://github.com/acervenky/acervenky/blob/master/assets/blog1.gif)](https://www.keytechvk.com/)
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+## Work Featured On :
+<a href="https://www.xda-developers.com/customize-aod-color-miui-11-trinity-substratum-theme/"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/xda%20(2).png" width="50" height="50"></a> <a href="https://beebom.com/download-motorola-razr-retro-app-live-wallpapers-here/"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/bb.png" width="50" height="50"></a> <a href="https://www.bgr.in/news/oneplus-6-mod-turns-the-earpiece-into-second-stereo-speaker-657336/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/bgr.png" width="50" height="50"></a> <a href="https://www.firstpost.com/tech/news-analysis/oneplus-6-mod-may-convert-the-earpiece-speaker-into-an-external-stereo-speaker-4714621.html" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/fp.png" width="50" height="50"></a> 
 
-<br>
+## Github Badges :
+<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
 
-```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
-  def __str__(self):
-    return self.name
+## Github Stats :
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=acervenky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-if __name__ == '__main__':
-    me = AbhigyanTrips()
-```
+<p href="https://github.com/arturssmirnovs/github-profile-views-counter" align="center"><img src="https://gpvc.arturio.dev/acervenky"></p>
+----
+Credit: [acervenky](https://github.com/acervenky)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
-
-------
-
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-Last Edited on: 24/12/2021
+Last Edited on: 19/11/2020
