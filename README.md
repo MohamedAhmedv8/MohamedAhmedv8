@@ -1,143 +1,113 @@
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
-  </p>
-</p>
-<p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
-  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-<p>
-  🎶Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a><br/>
-  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
+<!-- TODO: Add class that explains all the tools you use -->
+
+<!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
+
+### Hi there 👋
+
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
-<p>
-  🧔 Moi c'est <bold>Stan</bold>. 21 ans, barbu et un amateur de code et de ☕.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
-  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 3 ans
+<!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
+
+
+I'm **`Nedal Abudllah`** an 23 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
+and a self-taught developer with deep passion for Computer-Science and Technologies.
+
+- 👀 I’m looking to collaborate on **Open-Source** Projects.
+- 🐍 I’m looking to collaborate on **Python** projects.
+- 👨‍💻 All of my projects are available at [https://github.com/N3dal](https://github.com/N3dal)
+- 💬 Ask me about **Electromagnetic** or **Python**.
+- 🐧 I like **GNU/Linux**.
+- 📫 How to reach me **nedalxzo@gmail.com**
+- 😄 Pronouns: He/Him.
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
+
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8)
+
+<!-- to print thick horizontal line -->
+---
+
+```python
+class N3dal(Abdullah):
+   """self-taught developer that love to learn more about Computer-Science and Technologies"""
+   
+   def __init__(self):
+     
+      self.name = "Nedal Abdullah"
+      self.age = 23
+      self.role = "Student"
+
+      self.TOOLS = {
+          "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
+          "ProgrammingLanguages" : ("C", "C++"),
+          "MarkupLanguages" : ("Html", "markdown"),
+          "OtherLanguages" : ("json", ),
+          "Editors" : ("VsCode", "Sublime"),
+          "Platform" : ("GNU/LINUX",),
+          "OtherTools" : ("GIMP", "Git", "Arduino")
+         }
+
+      self.INTERESTS = [
+         "Computer Sciences",
+         "Electrical & Electronic Engineering",
+         "Computer Networks and Networking",
+         "Electromagnetic & Antenna Design"
+         ]
+
+   def use(self, tool):
+      """use one of my tools or use bunch of them."""
+      return self.tools[tool]
+
+
+   def work(self):
+      """"""
+      while not WORK_DONE:
+         # keep work.
+         self.use(tool)
+
+      return WORK_DONE
+
+
+   def __len__(self):
+      """Fun Fact"""
+      return 181 # cm
+
+
+   def __repr__(self):
+      """"""
+      return f"{self.name} an {self.age} y.o self-taught developer and {self.role}"
+
+```
+<!-- to print thick horizontal line -->
+---
+
+[![N3dal GitHub stats](https://github-readme-stats.vercel.app/api?username=n3dal&show_icnos=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+**CodeWars Stats**: 
+
+![N3dal Codewars stats](https://www.codewars.com/users/N3dal/badges/large)
+
+
+
+<!-- to draw horizontal line -->
+#
+## Where to find me
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/N3dal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n3dal.abdullah@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N3dal_Abdullah)
+
+#
+<p align="center">
+<a href="https://n3dal.github.io/" target="blank"><img src="https://github.com/N3dal/N3dal/blob/main/assets/n3dal_02.gif" /></a>
 </p>
-<p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
-</p><br/>
 
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
+# 
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-304-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 351 Contributions in the Year 2020
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories
- > 
-> 🔑 0 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-🌆 Daytime    364 commits    ████████████░░░░░░░░░░░░░   50.21% 
-🌃 Evening    256 commits    ████████░░░░░░░░░░░░░░░░░   35.31% 
-🌙 Night      47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.48%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       143 commits    █████░░░░░░░░░░░░░░░░░░░░   19.72% 
-Tuesday      111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
-Wednesday    139 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.17% 
-Thursday     110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
-Friday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-Saturday     78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
-Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79%
-
-```
+Thank you for taking the time to read my profile 🤣🤣
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Other                    1 hr 44 mins        ███████████░░░░░░░░░░░░░░   46.25% 
-JavaScript               1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.02% 
-Vue.js                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
-
-🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████░░░░░░░░░░░░   53.94% 
-Bash                     1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   35.76% 
-Zsh                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.31%
-
-💻 Operating System: 
-Linux                    3 hrs 45 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      10 repos            ██████████░░░░░░░░░░░░░░░   43.48% 
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/MrStanDu33/MrStanDu33/blob/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-</details>
-
------
-Credits: [MrStanDu33](https://github.com/MrStanDu33)
-
-Last Edited on: 30/08/2020
+------
+Credit: [N3dal](https://github.com/N3dal)
+Last Edited: 08/05/2023
