@@ -1,54 +1,125 @@
-<h1>Welcome!</h1>
+# Hi everyone :wave:
 
-<h3><b>About me</b></h3>
+I'm a 15-year-old web developer from the Czech Republic, who loves open source.
+I mainly code in Python and JavaScript, but I am always learning. I am currently
+working on a couple of open-source projects, including my own
+[Interclip](https://github.com/aperta-principium/Interclip), which is a tool
+that can be used to share links across devices. I also just started contributing
+to [Open Sauced](https://github.com/open-sauced/open-sauced), which is a site to
+manage your future open-source contributions.
 
-<p>I'm Federico, a researcher and entrepreneur currently living in <img src="https://image.flaticon.com/icons/svg/321/321167.svg" width="14"/> <b>Bern, Switzerland</b>. My work combines <img src="https://image.flaticon.com/icons/svg/3254/3254464.svg" width="14"/> <b>genomics</b> (more in general, high-throughput technologies) with <img src="https://image.flaticon.com/icons/svg/2103/2103633.svg" width="14"/> <b>data science</b> to answer fundamental questions in <img src="https://image.flaticon.com/icons/svg/1021/1021606.svg" width="14"/> <b>biomedicine</b>. I describe myself as a generalist. However, as for every person, no single label can be sufficiently accurate. I enjoy breaking communication barriers and have an aversion to silos. I have a long-standing passion for <img src="https://image.flaticon.com/icons/svg/2970/2970624.svg" width="14"/> <b>machine learning</b> and <img src="https://image.flaticon.com/icons/svg/2920/2920349.svg" width="14"/> <b>applied statistics</b>. In particular, I find Bayesian methods closest to my mindset, interpretable and effective. Finally, a few things I am convinced about:
-
-- The problem chooses the tool, not the other way around
-- Investing into people pays the highest dividends
-- Innovation requires the right mix of diversity and collaboration
-
-</p>
-
-<h3><b>Toolkit</b></h3>
-
-The core components of my daily data science toolkit are:
-
-<!--
-Icons from https://simpleicons.org/
--->
-
-<p>
-<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img alt="SQLite" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-
-<h3><b>Where to find me</b></h3>
-<p>
-<a href="https://github.com/FedericoComoglio" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/fcomoglio" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiptronicek&langs_count=8" />
 </a>
-<a href="https://twitter.com/FederiComoglio" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
 
+ (also from a project I'm contributing to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+* Latest blog post: <a class="post" href="https://blog.trnck.dev/all-the-timely-matters/">All the time(ly) matters (published on December 4, 2020)</a>
+* Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
+script made by [@zhiiiyang](https://github.com/zhiiiyang/)
+
+Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
+* [Brian Douglas](https://github.com/bdougie) 
+* [Kyle Daigle](https://github.com/kdaigle)
 
 <details>
-<summary>GitHub stats</summary>
+<summary>
+  More stuff about me
+</summary>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedericoComoglio)
-----
+### What I do
+
+I do Open Source. In fact, I do Open Source so much, that 95% of my work on
+GitHub is free and open to everyone. I am really passionate about doing web
+development, it is in my opinion the best combination of logical programming and
+(sometimes) beautiful design.
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
+- HTML, CSS
+  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
+- SCSS
+- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
+- Deno
+- WordPress
+  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
+- PHP
+- MySQL
+
+### Application Development
+
+- Python ([Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url))
+- C++ (sort of)
+
+### Productivity utilities
+
+- Microsoft Office - I am a Certified
+  [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url)
+  and
+  [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
+  Expert
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
+| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| Czech         | Native language                                                           |
+
+## What I'm currently learning 📚
+
+- TypeScript
+- React.js
+- React Native
+- Ruby
+
+## Projects I'm the most proud of
+
+| Name            | Description                                                          | Language      | Repo                                                             |
+| --------------- | -------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------- |
+| Interclip       | A clipboard and file sharing tool                                    | PHP           | [aperta-principium/Interclip](https://s.trnck.dev/interclip-git) |
+| Open Sauced     | 🍕 This is a project to identify your next open source contribution. | JS / React.js | [open-sauced/open-sauced](https://s.trnck.dev/sauced-git)        |
+| gitpy           | A Python wrapper for git                                             | Python        | [filiptronicek/gitpy](https://s.trnck.dev/gitpy)                 |
+| Dataset Creator | Simple Flickr Image Scraper and compression script                   | Python        | [filiptronicek/dataset-creator](https://s.trnck.dev/a831c)       |
+
+## In the works
+
+Stuff that is looking forward to be shipped :shipit: 
+| Name of project | Current State | Version |
+|-----------------|---------------|---------|
+|[Interclip mobile](https://github.com/filiptronicek/iclip-mobile) | Shipping MVP | [v0.2.0](https://github.com/filiptronicek/iclip-mobile/releases/tag/v0.2.0) |
+|[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.18.2](https://github.com/open-sauced/open-sauced/releases/tag/v0.18.2) |
+| [Taskord mobile](https://github.com/filiptronicek/taskord-mobile/) | Trying to get to MVP | -not release yet-
+
+## My own dictionary 📕:
+
+| Word / abreviation | Meaning                                                | Note                                             |
+| ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
+| FFO                | Fífa Friendly Office (a place where I can work safely) | Idea by [@aellopos](https://github.com/aellopos) |
+
+## Website subdomains 🔌
+
+My website has quite a few of them, here's a list of the public ones:
+
+- [thanks.trnck.dev](https://thanks.trnck.dev) - my thanks page to my sponsors
+- [download.trnck.dev](http://download.trnck.dev) - download some important
+  assets, which I personally use
+- [status.trnck.dev](https://status.trnck.dev) - status page for my sites
+- [btc.trnck.dev](https://btc.trnck.dev) - track the price of Bitcoin - data
+  from [filiptronicek/btc-tracker](https://github.com/filiptronicek/btc-tracker)
+- [qr.trnck.dev](https://qr.trnck.dev) - create a QR code in 2 seconds
 </details>
-
 -----
-Credits: [federicocomoglio](https://github.com/federicocomoglio)
+Credits: [filiptronicek](https://github.com/filiptronicek)
 
-Last Edited on: 07/02/2021
-
-<!--
-Inspired by [thmsgbrt](https://github.com/thmsgbrt)
--->
+Last Edited on: 25/12/2020
