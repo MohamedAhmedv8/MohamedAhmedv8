@@ -1,113 +1,106 @@
-<!-- TODO: Add class that explains all the tools you use -->
+<a href="https://twitter.com/shaurya_src" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/shaurya-src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/shaurya_src/" target="_blank" rel="nofollow"><img align="right" alt="Shaurya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
+<h1 align="center">Hola!</h1>
 
-### Hi there 👋
-
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
-</p>
-
-<!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
-
-
-I'm **`Nedal Abudllah`** an 23 y.o. Electronic-Communication engineering student from 🇱🇾 "Libya",
-and a self-taught developer with deep passion for Computer-Science and Technologies.
-
-- 👀 I’m looking to collaborate on **Open-Source** Projects.
-- 🐍 I’m looking to collaborate on **Python** projects.
-- 👨‍💻 All of my projects are available at [https://github.com/N3dal](https://github.com/N3dal)
-- 💬 Ask me about **Electromagnetic** or **Python**.
-- 🐧 I like **GNU/Linux**.
-- 📫 How to reach me **nedalxzo@gmail.com**
-- 😄 Pronouns: He/Him.
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
-
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8)
-
-<!-- to print thick horizontal line -->
----
-
-```python
-class N3dal(Abdullah):
-   """self-taught developer that love to learn more about Computer-Science and Technologies"""
-   
-   def __init__(self):
-     
-      self.name = "Nedal Abdullah"
-      self.age = 23
-      self.role = "Student"
-
-      self.TOOLS = {
-          "ScriptingLanguages" : ("Python", "Bash-Script", "matlab"),
-          "ProgrammingLanguages" : ("C", "C++"),
-          "MarkupLanguages" : ("Html", "markdown"),
-          "OtherLanguages" : ("json", ),
-          "Editors" : ("VsCode", "Sublime"),
-          "Platform" : ("GNU/LINUX",),
-          "OtherTools" : ("GIMP", "Git", "Arduino")
-         }
-
-      self.INTERESTS = [
-         "Computer Sciences",
-         "Electrical & Electronic Engineering",
-         "Computer Networks and Networking",
-         "Electromagnetic & Antenna Design"
-         ]
-
-   def use(self, tool):
-      """use one of my tools or use bunch of them."""
-      return self.tools[tool]
-
-
-   def work(self):
-      """"""
-      while not WORK_DONE:
-         # keep work.
-         self.use(tool)
-
-      return WORK_DONE
-
-
-   def __len__(self):
-      """Fun Fact"""
-      return 181 # cm
-
-
-   def __repr__(self):
-      """"""
-      return f"{self.name} an {self.age} y.o self-taught developer and {self.role}"
-
-```
-<!-- to print thick horizontal line -->
----
-
-[![N3dal GitHub stats](https://github-readme-stats.vercel.app/api?username=n3dal&show_icnos=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-**CodeWars Stats**: 
-
-![N3dal Codewars stats](https://www.codewars.com/users/N3dal/badges/large)
-
-
-
-<!-- to draw horizontal line -->
-#
-## Where to find me
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/N3dal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n3dal.abdullah@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N3dal_Abdullah)
-
-#
 <p align="center">
-<a href="https://n3dal.github.io/" target="blank"><img src="https://github.com/N3dal/N3dal/blob/main/assets/n3dal_02.gif" /></a>
+  <a href="https://github.com/shaurya-src">
+    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450">
+  </a>
 </p>
 
-# 
+<p align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="https://en.wikipedia.org/wiki/Homo_sapiens">
+    <img src="https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Life">
+    <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Computer_science">
+    <img src="https://img.shields.io/badge/My%20jam-Computer%20Science-critical?style=flat-square&logo=electron&logoColor=white">
+  </a>
+</p>
 
-Thank you for taking the time to read my profile 🤣🤣
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-10-292e33?style=flat-square&logo=microsoft&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Linux-Kali-292e33?style=flat-square&logo=Arch-Linux&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/IDE-PyCharm-292e33?style=flat-square&logo=PyCharm&logoColor=fff">
+  <img src="https://img.shields.io/badge/BROWSER-Edge-292e33?style=flat-square&logo=Microsoft-Edge">
+  <img src="https://img.shields.io/badge/BROWSER-Tor-292e33?style=flat-square&logo=Tor-Project">
+</p>
 
+<br>
 
-------
-Credit: [N3dal](https://github.com/N3dal)
-Last Edited: 08/05/2023
+<p align="center">
+  <code>
+  I'm Shaurya Choudhary, an adept learner exploring the depths of technology. I am a 3rd year undergrad at VIT, Vellore, majoring in Computer Science and Engineering (<strong>CSE</strong>). I have a great passion for <strong>Data Strcutruces & Algorithms</strong> along with <strong>Data Science</strong>.
+  </code>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaurya-src" alt="Shaurya Choudhary" />
+</p>
+
+<br>
+
+<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
+    alt="spotify" />
+</a>
+
+<h3>
+  <code>
+    Preferred Languages
+  </code>
+</h3>
+
+<br>
+
+<p>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/python.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/cpp.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/sql.png" height=40 hspace=10>
+</p>
+
+<h3>
+  <code>
+    Tools Used
+  </code>
+</h3>
+
+<br>
+
+<p>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/git.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Tensorflow.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Matplotlib.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/scipy.png" height=40 hspace=10>
+  <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/selenium.png" height=40 hspace=10>
+</p>
+______________________________________________________________________________________
+
+<br>
+<br>
+
+- ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
+- 🤝 Open for collaboration in Data Science and Deep Learning. <br>
+- 🕸️ Visit my porfolio [website](https://www.shauryasrc.com/) for more info. <br>
+- 🌀 Trying to blog at [Medium](https://shaurya-src.medium.com/).
+
+<br>
+
+<details open>
+ <summary> ✇ <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shaurya-src&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-src&hide=TeX,HTML&theme=tokyonight">
+</p>
+</details>
+-----
+Credits: [shaurya-src](https://github.com/shaurya-src)
+
+Last Edited on: 15/01/2021
