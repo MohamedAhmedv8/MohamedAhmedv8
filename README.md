@@ -1,20 +1,41 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Chakravarthi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chakravarthi-v/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
+  <a href="https://twitter.com/ChakriVV">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.instagram.com/___chakri_/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="mailto:chakravarthiviswanath@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://github.com/chakravarthi-v">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+</p>
+<h3 align="center">A Junior Computer Science Undergrad at SRM Institute of Science and Technology who is currently learning MERN stack web development</h3>
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+<br>
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 🎙 Currently hosting [Laravel Live Portugal – Season 2](https://www.youtube.com/playlist?list=PLLXPV3-YsvzTSuYYr6EkIQyvbzbvIQjkh)
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+<br>
 
------
-Credits: [caneco](https://github.com/caneco)
+  <a href="https://github.com/chakravarthi-v">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+  </a>
+  <a href="https://github.com/chakravarthi-v">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chakravarthi-v&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
+  </a>
 
-Last Edited on: 30/08/2020
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=chakravarthi-v.408179647)
+
+------
+
+Credit: [chakravarthi-v](https://github.com/chakravarthi-v)
+
+Last Edited on: 20/09/2021
