@@ -1,246 +1,109 @@
-<!-- 欢迎界面并展示访问次数 -->
-<h2 align="center">👋Thank You For Your Visit</h2>
-<div align="center">
-<img src="https://profile-counter.glitch.me/YuZhangWang/count.svg">
+<h1 align="center">Hi 👋, I'm yuebaix</h1>
+<h3 align="center">A passionate backend developer from China</h3>
+
+---
+
+![followers](https://img.shields.io/github/followers/yuebaix?style=social)
+![stars](https://img.shields.io/github/stars/yuebaix?style=social)
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
+<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
+
+- 🔭 I’m currently working on [pangu](https://github.com/yuebaix/pangu)
+- 🌱 I’m currently learning **vue**
+- 👨‍💻 All of my projects are available at [https://github.com/yuebaix](https://github.com/yuebaix)
+- 📝 I regularly write articles on [https://blog.yuebaix.com](https://blog.yuebaix.com)
+- 💬 Ask me about **java**
+- 📫 How to reach me **yuebaix@outlook.com**
+- 📄 Know about my experiences [https://blog.yuebaix.com/top/about/](https://blog.yuebaix.com/top/about/)
+- ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
+
+### 🛠 Tech Stack
+
+![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
+![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
+![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
+![Less](http://img.shields.io/badge/-Less-254c7d?style=flat-square&logo=less&logoColor=white)
+![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
+![Scala](http://img.shields.io/badge/-Scala-dd3734?style=flat-square&logo=scala&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
+![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
+![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
+![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+
+![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
+![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
+![Project Reactor](http://img.shields.io/badge/-Project%20Reactor-6db33f?style=flat-square&logo=react&logoColor=white)
+![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
+![Gin](http://img.shields.io/badge/-Gin-3190d1?style=flat-square&logo=go&logoColor=white)
+![Flask](http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black)
+![Pytest](http://img.shields.io/badge/-Pytest-white?style=flat-square&logo=pytest)
+![Swoole](http://img.shields.io/badge/-Swoole-338eef?style=flat-square&logo=php&logoColor=white)
+![Kotlinx Coroutines](http://img.shields.io/badge/-Kotlinx%20Coroutines-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+
+![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
+![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
+![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
+
+![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
+![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
+![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
+![RocketMq](http://img.shields.io/badge/-RocketMq-white?style=flat-square&logo=apacherocketmq)
+![Kafka](http://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apachekafka&logoColor=black)
+![RabbitMq](http://img.shields.io/badge/-RabbitMq-white?style=flat-square&logo=rabbitmq)
+![Hive](http://img.shields.io/badge/-Hive-white?style=flat-square&logo=apachehive)
+![Spark](http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark)
+![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
+
+![Subversion](http://img.shields.io/badge/-Subversion-white?style=flat-square&logo=subversion)
+![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![Maven](http://img.shields.io/badge/-Maven-white?style=flat-square&logo=apachemaven&logoColor=bc2043)
+![Gradle](http://img.shields.io/badge/-Gradle-white?style=flat-square&logo=gradle&logoColor=09303a)
+![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
+![Vgo](http://img.shields.io/badge/-Vgo-white?style=flat-square&logo=go)
+
+![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-484848?style=flat-square&logo=sublimetext)
+
+### 💬 Contact Me
+
+[![Gmail](https://img.shields.io/badge/-yuebaix@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yuebaix@outlook.com)
+
+### 🚦 Stats
+
+<div>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=yuebaix&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaix&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
-</br>
-
-
-<!-- 反996运动 https://996.icu  https://github.com/996icu -->
-<div align="center">
-    <strong>Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></strong>
-    </br>
-    </br>
-    <table border="0">
-  <tr>
-    <td><a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge" alt="996.icu" /></a></td>
-    <td><a href="https://996tsc.netlify.app/#/sticker"><img src="https://img.shields.io/badge/link-996.TSC-red?style=for-the-badge" alt="996.TSC" /></a></td>
-    <td><a href="https://github.com/top996/top.996"><img src="https://img.shields.io/badge/link-top.996-red?style=for-the-badge" alt="996.top" /></a></td>
-    <td><a href="https://fengt-t.github.io/996_list/"><img src="https://img.shields.io/badge/link-996__list-red?style=for-the-badge" alt="996_list" /></a></td>
-    <td><a href="https://github.com/it-job-blacklist/996ICU.job.blacklist_company"><img src="https://img.shields.io/badge/link-job--blacklist-red?style=for-the-badge" alt="job-blacklist" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zxpsuper/IT-blacklist"><img src="https://img.shields.io/badge/link-IT--blacklist-red?style=for-the-badge" alt="IT-blacklist" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/tree/master/whitelist"><img src="https://img.shields.io/badge/link-whitelist-success?style=for-the-badge" alt="whitelist" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue?style=for-the-badge" alt="996.icu" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg?style=for-the-badge" alt="996.icu" /></a></td>
-    <td><a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=for-the-badge"></a></td>
-  </tr>
-</table> 
+<div>
+  <a href="https://github.com/yuebaix/pangu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=pangu" />
+  </a>
+    <a href="https://github.com/yuebaix/nezha">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nezha" />
+  </a>
+  <a href="https://github.com/yuebaix/hongjun">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=hongjun" />
+  </a>
+  <a href="https://github.com/yuebaix/luya">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=luya" />
+  </a>
+    <a href="https://github.com/yuebaix/nvwa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nvwa" />
+  </a>
 </div>
 
+-----
+Credits: [yuebaix](https://github.com/yuebaix)
 
-<!-- 关于我的一些编程信息,例如Github状态,Github仓库内编程语言使用情况统计,常用的编程语言,常用的编程框架和IDE工具,Github粉丝点赞访客 -->
-## :star2: Github Status
-<div align="center">
-<table>
-    <tr>
-        <!-- Github状态 -->
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-        </td>
-        <!-- Github仓库内编程语言使用情况统计 -->
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="YuZhangWang's Language stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Language stats" />
-            </a>
-        </td>
-    </tr>
-</table>
-</div>
-
-
-</br>
-
-<!-- 常用的编程语言和常用的编程框架和IDE工具 -->
-<div align="center">
-<table>
-<tr>
-<td>
-:basecamp: Languages
-</td>
-<td>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="CPP" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="Latex" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="Html" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" /></code>
-</td>
-</tr>
-    
-<tr>
-<td>
-:fishsticks: Tools
-</td>
-<td>
-<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Pytorch" /></code>   
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"></code>
-<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/clion.svg" alt="Clion"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="openSUSE" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" /></code>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- 关于我的一些信息 -->
-## :wink: About Me
-> - YuZhangWang(豫章望)
-> - 励志成为一名算法工程师，研究深度学习、机器学习，达到算法工程落地的要求，同时前端后端掌握一些内容   
-> - 合作邮箱<a href="mailto:YuZhangWang233@163.com">YuZhangWang233@163.com</a>   
-> - 个人博客[https://yuzhang.wang](https://yuzhang.wang)   
-> - 博客备份[YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
-> - RSS订阅[https://yuzhang.wang/rss2.xml](https://yuzhang.wang/rss2.xml)   
-
-
-<table width="100%" align="center" padding="0" margin="0">
-<tr>
-<td valign="top" width="50%">
-:mortar_board:  <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> 
-  
-<!-- START_SECTION:blog -->
-| Date | Title |
-| :-: | :---: |
-| 2023-06-08 | <a href='https://yuzhang.wang/134-past-pesent-future/' target='_blank'>过去 现在 未来</a> |
-| 2023-06-07 | <a href='https://yuzhang.wang/133-best-template/' target='_blank'>你应该为自己创建一个Github仓库模板</a> |
-| 2023-06-06 | <a href='https://yuzhang.wang/132-github-introduction/' target='_blank'>如何拥有一个Awesome的Github介绍页面</a> |
-| 2023-06-05 | <a href='https://yuzhang.wang/131-remote-friend-linking/' target='_blank'>Butterfly主题中远程友链实操</a> |
-| 2023-06-04 | <a href='https://yuzhang.wang/130-domain-name-issue/' target='_blank'>域名的小问题导致网站关闭了很久</a> |
-| 2023-06-03 | <a href='https://yuzhang.wang/129-genshin-progress-planning/' target='_blank'>原神进度以及未来规划</a> |
-| 2023-06-02 | <a href='https://yuzhang.wang/128-exam-935/' target='_blank'>考研935记忆点</a> |
-| 2023-06-01 | <a href='https://yuzhang.wang/127-exam-politics/' target='_blank'>考研政治记忆点</a> |
-| 2023-05-31 | <a href='https://yuzhang.wang/126-exam-mathematics/' target='_blank'>考研数学记忆点</a> |
-| 2023-05-30 | <a href='https://yuzhang.wang/125-aopic-dermatitis/' target='_blank'>原来我的皮肤生病了</a> |
-<!-- END_SECTION:blog -->
-</td>
-    
-<td valign="top" width="50%"> 
-:tada:  <a href="https://yuzhang.wang" target="_blank">Funny Soul</a> 
-    
-<!-- START_SECTION:douban -->
-| Date | Title |
-| :-: | :---: |
-| 2023-08-03 | 在看👀 <a href='http://movie.douban.com/subject/35326277/' target='_blank'>潜行者</a> ⭐⭐⭐⭐ |
-| 2023-08-03 | 看过😎 <a href='http://movie.douban.com/subject/35891808/' target='_blank'>欢颜</a> ⭐ |
-| 2023-08-02 | 看过😎 <a href='http://movie.douban.com/subject/30345127/' target='_blank'>少年歌行</a> ⭐⭐⭐⭐ |
-| 2023-08-02 | 看过😎 <a href='http://movie.douban.com/subject/35679806/' target='_blank'>君有云</a> ⭐⭐⭐⭐ |
-| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-29 | 看过😎 <a href='http://movie.douban.com/subject/36017435/' target='_blank'>凡人修仙传：初入星海</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/35346290/' target='_blank'>永生</a> ⭐⭐⭐⭐ |
-| 2023-07-28 | 最近 <a href='https://book.douban.com/subject/36190074/' target='_blank'>在读金榜题名之后</a> ⭐⭐⭐⭐ |
-| 2023-07-28 | 最近 <a href='https://book.douban.com/subject/30397750/' target='_blank'>在读论语三百讲（全三册）</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-27 | 看过😎 <a href='http://movie.douban.com/subject/35417825/' target='_blank'>石纪元 第三季</a> ⭐⭐⭐⭐⭐ |
-<!-- END_SECTION:douban -->
-</td>
-</tr>
-    
-<!-- START_SECTION:github-xxx -->
-<!-- END_SECTION:github-xxx -->
-    
-</table>
-
-
-<!-- 各种平台联系方式 -->
-## :mailbox: Get In Touch
-<div align="center">
-<table border="0">
-  <tr>
-    <td>
-        <!-- StackOverFlow -->
-        <a href="https://stackoverflow.com/users/16347524/yuzhangwang" target="_blank"> 
-        <img src="https://img.shields.io/badge/StackOverFlow-YuZhangWang-%23F48024?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- CSDN -->
-        <a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
-        <img src="https://img.shields.io/badge/CSDN-YuZhangWang-%23FC5531?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- 掘金 -->
-    <a href="https://juejin.cn/user/4476867080633319" target="_blank"> 
-    <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-YuZhangWang-%231E80FF?style=for-the-badge">
-    </a>
-    </td>
-    <td>
-        <!-- 知乎 -->
-        <a href="https://www.zhihu.com/people/YuZhangWang" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangWang-%230066FF?style=for-the-badge">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <!-- Github -->
-        <a href="https://github.com/YuZhangWang" target="_blank"> 
-        <img src="https://img.shields.io/badge/Github-YuZhangWang-%2324292F?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- Gitee -->
-        <a href="https://gitee.com/YuZhangWang233" target="_blank"> 
-        <img src="https://img.shields.io/badge/Gitee-YuZhangWang-%23C71D23?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- LeetCode -->
-        <a href="https://leetcode-cn.com/u/yuzhangwang/" target="_blank"> 
-        <img src="https://img.shields.io/badge/LeetCode-YuZhangWang-%23FFA119?style=for-the-badge">
-        </a>
-     </td>
-    <td>
-        <!-- bilibili -->
-        <a href="https://space.bilibili.com/19474542" target="_blank"> 
-        <img src="https://img.shields.io/badge/bilibili-YuZhangWang-%23FB7299?style=for-the-badge">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <!-- 酷安 -->
-        <a href="http://www.coolapk.com/u/1670757" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273?style=for-the-badge">
-        </a>
-     </td>
-    <td>
-        <!-- 网易云 -->
-        <a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- QQ -->
-        <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg" target="_blank"> 
-        <img src="https://img.shields.io/badge/QQ-YuZhangWang-%2350BCFE?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- 微信 -->
-        <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-%231AAD19?style=for-the-badge">
-        </a>
-    </td>
-  </tr>
-</table>
-</div>
+Last Edited on: 24/09/2021
