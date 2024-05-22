@@ -1,5 +1,5 @@
-https://miro.medium.com/v2/resize:fit:1358/1*SoJOoRqbFp9fvNILpl4JNw.jpeg
 
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*SoJOoRqbFp9fvNILpl4JNw.jpeg" alt="heroku"/>
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
