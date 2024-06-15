@@ -1,5 +1,5 @@
-![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
-<img align="left" src="" width="21%" style="display:inline;"><img align="right" src="" width="21%" style="display:inline;">
+![logo]()
+<img align="left" src="asdasdas" width="21%" style="display:inline;"><img align="right" src="" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
 <h3 align="center">Backend Developer</h3>
