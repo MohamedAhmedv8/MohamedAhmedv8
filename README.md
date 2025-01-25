@@ -32,7 +32,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
   </a>
 </p>
 
