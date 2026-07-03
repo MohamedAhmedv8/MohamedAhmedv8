@@ -107,4 +107,3 @@ Passionate about building scalable web applications, RESTful APIs, and clean bac
 *"First solve the problem. Then write clean code."*
 
 </div>
-```
