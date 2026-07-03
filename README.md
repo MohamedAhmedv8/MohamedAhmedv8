@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
 
 <h3 align="center">
@@ -5,88 +6,59 @@ Backend Developer | PHP • Laravel • MySQL
 </h3>
 
 <p align="center">
-Passionate Backend Developer focused on building scalable web applications, RESTful APIs, and clean, maintainable code using PHP and Laravel.
+Passionate about building scalable web applications, RESTful APIs, and clean backend architectures using modern PHP technologies.
 </p>
 
 <p align="center">
+
 <a href="https://github.com/MohamedAhmedv8">
-<img src="https://komarev.com/ghpvc/?username=MohamedAhmedv8&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MohamedAhmedv8&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/MohamedAhmedv8?tab=followers">
-<img src="https://img.shields.io/github/followers/MohamedAhmedv8?label=Followers&style=social" />
-</a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 Backend Developer specializing in **PHP & Laravel**
-- 🌱 Currently improving my skills in **Laravel Ecosystem**
-- 🔥 Interested in **REST APIs, Clean Architecture and SOLID Principles**
-- 📍 Egypt
-- 📫 Reach me: **YOUR_EMAIL**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-ahmedv8">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/github/followers/MohamedAhmedv8?style=for-the-badge"/>
 </a>
 
-<a href="https://www.facebook.com/mohamed.ahmedv8">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-
-<a href="https://www.instagram.com/mohamed.ahmedv8">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="https://github.com/MohamedAhmedv8?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Projects-View-success?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💻 About Me
 
-### Backend
+- 🔹 Backend Developer specializing in **PHP & Laravel**
+- 🔹 Strong understanding of **OOP, MVC and REST APIs**
+- 🔹 Passionate about writing **Clean Code** and applying **SOLID Principles**
+- 🔹 Experienced with MySQL database design and optimization
+- 🔹 Always learning new backend technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
-</p>
+---
 
-### Frontend
+# 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,git,github,linux,postman,vscode"/>
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-- 📝 **PHP OOP Task Manager**
-- 🛒 **E-Commerce System**
-- 🏥 **Hospital Management System**
-- 📄 **Invoices System**
+| Project | Description |
+|---------|-------------|
+| 🛒 **E-Commerce System** | Complete e-commerce platform with authentication and product management |
+| 🏥 **Hospital Management System** | Hospital management application |
+| 🧾 **Invoices System** | Invoice management solution |
+| 🏨 **Online Hotel Booking** | Hotel reservation platform |
+| 💰 **Cashier System** | Point of Sale (POS) system |
+| ✅ **PHP OOP Task Manager** | Task management application built using Object-Oriented Programming |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -98,18 +70,41 @@ Passionate Backend Developer focused on building scalable web applications, REST
 
 ---
 
-# 🔥 GitHub Streak
+# 🛠️ Currently Working On
 
-<p align="center">
+- Laravel Projects
+- REST APIs
+- Authentication & Authorization
+- Database Optimization
+- Software Architecture
 
-<img src="https://streak-stats.demolab.com?user=MohamedAhmedv8&theme=tokyonight&hide_border=true"/>
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mohamed-ahmedv8">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.facebook.com/mohamed.ahmedv8">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/mohamed.ahmedv8">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Building reliable backend solutions with PHP & Laravel
 
-</p>
+*"First solve the problem. Then write clean code."*
+
+</div>
+```
