@@ -1,56 +1,115 @@
-![logo](https://media.geeksforgeeks.org/wp-content/uploads/20221123153249/SkillsRequiredtoBecomeaBackendDeveloper.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 <h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
-<h3 align="center">Backend Developer</h3>
-<p align="center">Experienced backend developer with a strong foundation in modern web technologies, Proficient in developing scalable and secure systems with clean, maintainable code.</p>
-<p align="center"> 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><be>
+<h3 align="center">
+Backend Developer | PHP • Laravel • MySQL
+</h3>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-ahmedv8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohamed.ahmedv8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mohamed.ahmedv8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel," />
-  </a>
+<p align="center">
+Passionate Backend Developer focused on building scalable web applications, RESTful APIs, and clean, maintainable code using PHP and Laravel.
 </p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-  </a>
+<p align="center">
+<a href="https://github.com/MohamedAhmedv8">
+<img src="https://komarev.com/ghpvc/?username=MohamedAhmedv8&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://github.com/MohamedAhmedv8?tab=followers">
+<img src="https://img.shields.io/github/followers/MohamedAhmedv8?label=Followers&style=social" />
+</a>
 </p>
 
-- Database
+---
+
+## 🚀 About Me
+
+- 💻 Backend Developer specializing in **PHP & Laravel**
+- 🌱 Currently improving my skills in **Laravel Ecosystem**
+- 🔥 Interested in **REST APIs, Clean Architecture and SOLID Principles**
+- 📍 Egypt
+- 📫 Reach me: **YOUR_EMAIL**
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
+<a href="https://www.linkedin.com/in/mohamed-ahmedv8">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.facebook.com/mohamed.ahmedv8">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://www.instagram.com/mohamed.ahmedv8">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 </p>
 
+---
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-  </a>
+# 💻 Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
-<br/>
+### Frontend
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+- 📝 **PHP OOP Task Manager**
+- 🛒 **E-Commerce System**
+- 🏥 **Hospital Management System**
+- 📄 **Invoices System**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedAhmedv8&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAhmedv8&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=MohamedAhmedv8&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
